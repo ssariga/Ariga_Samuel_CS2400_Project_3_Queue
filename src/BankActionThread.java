@@ -99,7 +99,7 @@ public class BankActionThread extends ActionThread
 
             myReport.updateTime(theEvents.getCurrentTime());
 
-            animationPause();
+            animationPause(); //step 13
         }
       /*  int eventCounter = 0;
 

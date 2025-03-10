@@ -97,7 +97,7 @@ public class Teller
                 , "After helping customer " + toHelp.getName() +  " check for next customer");
 
                 theEventQueue.add(nextGeneration);
-                postActionReport = "Customer found, Serving customer ";
+                postActionReport = "Customer found, Serving customer "; //step 16
 
             }
 
